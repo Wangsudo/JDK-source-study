@@ -1,3 +1,10 @@
-# java-source-code-study
+# JDK-source-study
 If you find mistakes or better suggestions in reading, please correct them.
-## String
+## Study Plan
+#### java.lang.*
+##### Float & Integer & Long
+
+##### Math
+
+##### String & StringBuffer & StringBuilder
+
