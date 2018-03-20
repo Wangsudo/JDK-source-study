@@ -6,5 +6,5 @@ If you find mistakes or better suggestions in reading, please correct them.
 
 ##### Math
 
-##### String & StringBuffer & StringBuilder
+> [String & StringBuffer & StringBuilder](../java/lang/String-String-StringBuilder.md) 
 
