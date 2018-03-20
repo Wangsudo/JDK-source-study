@@ -1,5 +1,3 @@
 # java-source-code-study
-Learn a little every day！！！
-
-
+If you find mistakes or better suggestions in reading, please correct them.
 ## String
