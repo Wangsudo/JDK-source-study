@@ -2,9 +2,9 @@
 If you find mistakes or better suggestions in reading, please correct them.
 ## Study Plan
 #### java.lang.*
-##### Float & Integer & Long
+> [Float & Integer & Long](./java/lang/Float-Integer-Long.md) 
 
-##### Math
+> [Math](./java/lang/Math.md) 
 
 > [String & StringBuffer & StringBuilder](./java/lang/String-String-StringBuilder.md) 
 
